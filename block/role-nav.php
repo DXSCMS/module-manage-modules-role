@@ -1,0 +1,2 @@
+<a class="btn btn-info"><i class="fa fa-user"></i> <strong><?php echo ROL;?></strong></a>
+<a class="btn btn-danger" href="<?php echo $_URLCMS->gtLinkModuleCMS();?>"><i class="fa fa-arrow-left"></i> <?php echo $_LANG["back"];?></a>
